@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("hello git!");
         System.out.println("hello git!");
         System.out.println("hello git-master!");
+        System.out.println("hello git-hot-prefix!");
     }
 }
